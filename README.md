@@ -3,7 +3,9 @@
 <br>
 
 <h2 align="center">Hi! I'm AGSTN.</h2>
-<h3 align="center">BSIT Student & Independent Developer 🇵🇭</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=5B8CFF&center=true&vCenter=true&width=500&lines=BSIT+Student+%26+Independent+Developer+%F0%9F%87%B5%F0%9F%87%AD;Building+practical+software+%26+systems;Turning+ideas+into+thoughtful+digital+experiences" alt="Typing animation" />
+</p>
 <br>
 <p align="center">Building practical software, exploring systems, and turning ideas into simple, thoughtful digital experiences.<br>Currently studying Information Technology while developing web apps, tooling, and local-first utilities.</p>
 <br>
