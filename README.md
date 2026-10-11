@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center">Hi! I'm AGSTN.</h2>
+<h2 align="center">Hi! I'm Agustin.</h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Changa+One&pause=1000&color=7A2DFF&center=true&vCenter=true&width=435&lines=BSIT+Student+%26+Independent+Developer" alt="Typing SVG" /></a>
 </p>
@@ -48,12 +48,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">AGSTN Portfolio</h3>
+<h3 align="center">agstn.dev</h3>
 <div align="center">
-<a href="https://github.com/jABurat23/agstn.dev" target="_blank"><img src="https://raw.githubusercontent.com/jABurat23/jABurat23/main/assets/portfolio-preview.png" width="400" alt="AGSTN Portfolio"></a>
+<a href="https://github.com/jABurat23/agstn.dev" target="_blank"><img src="https://github.com/user-attachments/assets/f7b23f86-425e-49f2-b711-13282322c427" width="400" alt="AGSTN Portfolio"></a>
 <p>
 <a href="https://github.com/jABurat23/agstn.dev" target="_blank">
-<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 <a href="https://agstn.dev" target="_blank">
 <img src="https://img.shields.io/badge/LIVE-00C647?style=for-the-badge&logo=vercel&logoColor=white">
