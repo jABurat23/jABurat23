@@ -13,12 +13,12 @@
 
 <br>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="mailto:agstn.dev@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="AGSTN email" /></a>
-<a href="https://github.com/jABurat23" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jABurat23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agstn" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AGSTN" height="30" width="40" /></a>
-<a href="https://twitter.com/agstn_dev" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agstn_dev" height="30" width="40" /></a>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="mailto:agstn.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/dotty/40/000000/email.png" alt="AGSTN email" /></a>
+<a href="https://github.com/jABurat23" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jABurat23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agstn" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AGSTN" height="30" width="40" /></a>
+<a href="https://twitter.com/agstn_dev" rel="noopener noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agstn_dev" height="30" width="40" /></a>
 </p>
 
 <br>
